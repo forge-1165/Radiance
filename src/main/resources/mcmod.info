@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "radiance",
+    "name": "Radiance",
+    "description": "Radiance renderer port for Minecraft 1.12.2 Forge (porting scaffold).",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://www.minecraft-radiance.com/",
+    "updateUrl": "",
+    "authorList": ["LJIONG", "Interstellarss"],
+    "credits": "Radiance Team",
+    "logoFile": "assets/radiance/icon.png",
+    "screenshots": [],
+    "parent": "",
+    "useDependency informasi": false
+  }
+]
